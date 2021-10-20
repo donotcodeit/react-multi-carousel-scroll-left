@@ -1,0 +1,17 @@
+{
+    "stylelint.syntax": "scss",
+    "stylelint.configBasedir": "ClientApp",
+    "stylelint.validate": [
+        "html",
+        "css",
+        "sass",
+        "scss"
+    ],
+    "cSpell.words": [
+        "browserslist",
+        "contenteditable",
+        "flowtype",
+        "oidc",
+        "stylelint"
+    ]
+}
